@@ -1,5 +1,5 @@
 # By Malak Nasser
-## double linked stack
+## Double linked stack
 Implementing stack using :
 - Double linked lists
 - Template
